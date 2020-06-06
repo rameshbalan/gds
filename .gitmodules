@@ -1,0 +1,9 @@
+[submodule "algo_dna_seq/ads1-hw-examples"]
+	path = algo_dna_seq/ads1-hw-examples
+	url = https://github.com/BenLangmead/ads1-hw-examples.git
+[submodule "algo_dna_seq/ads1-slides"]
+	path = algo_dna_seq/ads1-slides
+	url = https://github.com/BenLangmead/ads1-slides.git
+[submodule "algo_dna_seq/ads1-notebooks"]
+	path = algo_dna_seq/ads1-notebooks
+	url = https://github.com/BenLangmead/ads1-notebooks.git
