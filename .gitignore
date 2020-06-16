@@ -5,4 +5,7 @@ command_line_tools/*.bt2
 command_line_tools/*.sam
 command_line_tools/*.fas
 command_line_tools/*.fastq
-
+command_line_tools/*.vcf
+command_line_tools/*.bcf
+command_line_tools/*.fas.fai
+command_line_tools/*.gtf
