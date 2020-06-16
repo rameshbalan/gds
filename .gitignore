@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 command_line_tools/gencommand_proj1_data/apple.genome
+command_line_tools/*.tar.gz
+command_line_tools/*.bt2
+command_line_tools/*.sam
+command_line_tools/*.fas
+command_line_tools/.fastq
+
